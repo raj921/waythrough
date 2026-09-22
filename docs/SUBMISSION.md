@@ -29,4 +29,4 @@ After configuration, create one real visit with a public venue page, verify the 
 
 ## Social copy
 
-Built WayThrough for the Convex All Gas Hackathon: an evidence-linked visit planner that changes the route when a venue promise becomes conditional or is withdrawn. Try the clearly labeled fictional example, inspect the source, and open a read-only route. Convex powers the live state. Firecrawl, OpenAI, and AgentMail integrations are coded but awaiting provider credentials and a verified round trip. Try it: https://colorful-marlin-799.convex.site  Source: https://github.com/raj921/waythrough  @convex @OpenAI @firecrawl @agentmail
+Built WayThrough for #AllGasHackathon: an access route where each step cites its source and a withdrawn venue promise changes the plan. Try the fictional live Convex demo and 41s tour: https://vibeapps.dev/s/waythrough @convex @OpenAI @firecrawl @agentmail
