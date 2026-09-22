@@ -2,6 +2,8 @@
 
 Submitted to VibeApps on 23 September 2026 at 00:18 IST. Public entry: https://vibeapps.dev/s/waythrough
 
+Sponsor-tagged X post: https://x.com/RajKuma39078041/status/2102472567693168943
+
 - Project: WayThrough
 - Live app: https://colorful-marlin-799.convex.site
 - Public repo: https://github.com/raj921/waythrough

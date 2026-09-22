@@ -34,4 +34,4 @@ Captured a 41-second guided tour from verified live-product states at `docs/wayt
 
 ### 2026-09-22 - published entry
 
-Submitted WayThrough to VibeApps at https://vibeapps.dev/s/waythrough. Verified the public entry contains the live Convex URL, the playable 41-second video, the public GitHub repository, sponsor tags, and a description that explicitly says the Firecrawl/OpenAI/AgentMail round trip is unverified. The screenshot upload was unavailable through the browser extension; the entry remains editable. No social post has been published from this workspace.
+Submitted WayThrough to VibeApps at https://vibeapps.dev/s/waythrough. Verified the public entry contains the live Convex URL, the playable 41-second video, the public GitHub repository, sponsor tags, and a description that explicitly says the Firecrawl/OpenAI/AgentMail round trip is unverified. The screenshot upload was unavailable through the browser extension; the entry remains editable. Published the user-approved sponsor-tagged post at https://x.com/RajKuma39078041/status/2102472567693168943 and attached it to the VibeApps entry before the deadline.
