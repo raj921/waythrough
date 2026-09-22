@@ -30,4 +30,4 @@ Published the static frontend to the development Convex deployment at the live U
 
 ### 2026-09-22 - working tree
 
-Captured a 35-second real-product walkthrough at `docs/waythrough-demo.mp4` and verified the responsive layout at desktop and mobile widths (`docs/screenshots/desktop.png`, `docs/screenshots/mobile.png`).
+Captured a 41-second guided tour from verified live-product states at `docs/waythrough-demo.mp4` and verified the responsive layout at desktop and mobile widths (`docs/screenshots/desktop.png`, `docs/screenshots/mobile.png`). The tour shows the fictional fixture and makes no claim of a completed sponsor API round trip.
