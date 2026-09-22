@@ -7,7 +7,7 @@
 - **Repo:** https://github.com/raj921/waythrough
 - **Frontend:** Convex static hosting
 - **Convex deployment:** https://colorful-marlin-799.convex.cloud
-- **Components:** @convex-dev/auth, @convex-dev/firecrawl, @agentmail/convex, @convex-dev/static-hosting
+- **Components:** @convex-dev/auth, @firecrawl/firecrawl-convex, @agentmail/convex, @convex-dev/static-hosting
 - **Convex features:** schema, indexed queries, mutations, actions, scheduled functions, realtime queries, anonymous auth, HTTP webhook, static hosting
 - **Auth:** Convex Auth
 - **AI models:** gpt-5-mini (configurable with OPENAI_MODEL)
