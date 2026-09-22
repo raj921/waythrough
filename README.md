@@ -2,7 +2,7 @@
 
 WayThrough turns a venue visit into an evidence-linked access plan. It keeps five route dependencies visible — arrival, entrance, internal route, destination, and facilities — then asks a human for only the unresolved arrangement. A source can go stale, a venue can reply conditionally, and a withdrawal can reopen the smallest affected step.
 
-Live app: https://colorful-marlin-799.convex.site
+Live app: https://colorful-marlin-799.convex.site  ·  Source: https://github.com/raj921/waythrough
 
 ## What is real
 

@@ -4,7 +4,7 @@
 - **Event:** Convex All Gas Hackathon
 - **What it does:** Evidence-linked visit plans that retrieve venue information, expose unresolved access arrangements, and track dated venue commitments.
 - **Live app:** https://colorful-marlin-799.convex.site
-- **Repo:** private until the public GitHub repository is created
+- **Repo:** https://github.com/raj921/waythrough
 - **Frontend:** Convex static hosting
 - **Convex deployment:** https://colorful-marlin-799.convex.cloud
 - **Components:** @convex-dev/auth, @convex-dev/firecrawl, @agentmail/convex, @convex-dev/static-hosting
@@ -26,4 +26,4 @@ Added executable evidence and security checks: cross-session ownership, redacted
 
 ### 2026-09-22 - working tree
 
-Published the static frontend to the development Convex deployment at the live URL above. The hosted smoke test opened a guest session, created the fictional example, confirmed staffing, and displayed the supported route state. Provider keys are intentionally not claimed here until configured in the deployment; the Connections panel reports the live configuration state.
+Published the static frontend to the development Convex deployment at the live URL above and pushed the source to the public repository above. The hosted smoke test opened a guest session, created the fictional example, confirmed staffing, and displayed the supported route state. Provider keys are intentionally not claimed here until configured in the deployment; the Connections panel reports the live configuration state.
