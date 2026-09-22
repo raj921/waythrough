@@ -49,3 +49,5 @@ npx @convex-dev/static-hosting upload --dist out
 WayThrough does not infer physical accessibility from a marketing claim, turn an unknown step into a guarantee, expose private requirements through a share link, or send a message from the fictional example. A configured provider is shown as configuration status; only a completed provider call creates source or delivery evidence.
 
 See [hackathon.md](./hackathon.md) for the public build log and [docs/DEMO_SCRIPT.md](./docs/DEMO_SCRIPT.md) for the under-three-minute walkthrough.
+
+The captured walkthrough is [docs/waythrough-demo.mp4](./docs/waythrough-demo.mp4).

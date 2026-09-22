@@ -27,3 +27,7 @@ Added executable evidence and security checks: cross-session ownership, redacted
 ### 2026-09-22 - working tree
 
 Published the static frontend to the development Convex deployment at the live URL above and pushed the source to the public repository above. The hosted smoke test opened a guest session, created the fictional example, confirmed staffing, and displayed the supported route state. Provider keys are intentionally not claimed here until configured in the deployment; the Connections panel reports the live configuration state.
+
+### 2026-09-22 - working tree
+
+Captured a 35-second real-product walkthrough at `docs/waythrough-demo.mp4` and verified the responsive layout at desktop and mobile widths (`docs/screenshots/desktop.png`, `docs/screenshots/mobile.png`).
