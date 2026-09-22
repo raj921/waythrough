@@ -51,3 +51,5 @@ WayThrough does not infer physical accessibility from a marketing claim, turn an
 See [hackathon.md](./hackathon.md) for the public build log and [docs/DEMO_SCRIPT.md](./docs/DEMO_SCRIPT.md) for the under-three-minute walkthrough.
 
 The 41-second guided tour is [playable here](https://raj921.github.io/waythrough/) or available as [docs/waythrough-demo.mp4](./docs/waythrough-demo.mp4). It shows verified app states from the labeled fictional example.
+
+The [public All Gas entry](https://vibeapps.dev/s/waythrough) links to the live app, playable demo, source, and build log. The sponsor round trip remains labeled unverified until provider credentials and a controlled test are available.

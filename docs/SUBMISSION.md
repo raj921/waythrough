@@ -1,11 +1,11 @@
 # WayThrough submission sheet
 
-Copy these values into the All Gas submission form.
+Submitted to VibeApps on 23 September 2026 at 00:18 IST. Public entry: https://vibeapps.dev/s/waythrough
 
 - Project: WayThrough
 - Live app: https://colorful-marlin-799.convex.site
 - Public repo: https://github.com/raj921/waythrough
-- Demo video: https://raj921.github.io/waythrough/waythrough-demo.mp4, 41 seconds
+- Demo video: https://raj921.github.io/waythrough/waythrough-demo.mp4?v=142002d, 41 seconds
 - Build log: `hackathon.md`
 
 ## Description

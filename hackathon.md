@@ -31,3 +31,7 @@ Published the static frontend to the development Convex deployment at the live U
 ### 2026-09-22 - working tree
 
 Captured a 41-second guided tour from verified live-product states at `docs/waythrough-demo.mp4` and verified the responsive layout at desktop and mobile widths (`docs/screenshots/desktop.png`, `docs/screenshots/mobile.png`). The tour shows the fictional fixture and makes no claim of a completed sponsor API round trip.
+
+### 2026-09-22 - published entry
+
+Submitted WayThrough to VibeApps at https://vibeapps.dev/s/waythrough. Verified the public entry contains the live Convex URL, the playable 41-second video, the public GitHub repository, sponsor tags, and a description that explicitly says the Firecrawl/OpenAI/AgentMail round trip is unverified. The screenshot upload was unavailable through the browser extension; the entry remains editable. No social post has been published from this workspace.
