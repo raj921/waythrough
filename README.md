@@ -4,6 +4,8 @@ WayThrough turns a venue visit into an evidence-linked access plan. It keeps fiv
 
 Live app: https://colorful-marlin-799.convex.site  ·  Source: https://github.com/raj921/waythrough
 
+![WayThrough's fictional Riverside Gallery route with five evidence-linked steps](./docs/screenshots/desktop.png)
+
 ## What is real
 
 - Convex owns the schema, realtime queries, auth, mutations, scheduled freshness checks, and provider orchestration.
