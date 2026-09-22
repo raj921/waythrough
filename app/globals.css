@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 45 20% 96%;
+    --foreground: 240 6% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 6% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 6% 10%;
+    --primary: 38 92% 32%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 45 20% 93%;
+    --secondary-foreground: 240 6% 10%;
+    --muted: 45 14% 92%;
+    --muted-foreground: 215 10% 41%;
+    --accent: 45 20% 93%;
+    --accent-foreground: 240 6% 10%;
+    --destructive: 0 72% 45%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 45 9% 84%;
+    --input: 45 9% 84%;
+    --ring: 217 91% 60%;
+    --radius: 0.5rem;
+  }
+
+  * { @apply border-border; }
+  html { scroll-behavior: smooth; }
+  body {
+    @apply bg-background text-foreground;
+    font-family: "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  button, input, textarea { font: inherit; }
+}
+
+@layer components {
+  .font-heading { font-family: "Lexend", ui-sans-serif, system-ui, sans-serif; }
+  .pressable {
+    transition-property: scale, background-color, color, box-shadow;
+    transition-duration: 150ms;
+    transition-timing-function: ease-out;
+  }
+  .pressable:active:not(:disabled) { scale: 0.96; }
+}
+
+@media print {
+  .no-print, [role="tablist"] { display: none !important; }
+  body, main { background: white !important; color: black !important; }
+  * { box-shadow: none !important; }
+  button { color: black !important; }
+  ol > li { break-inside: avoid; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.001ms !important;
+  }
+}
